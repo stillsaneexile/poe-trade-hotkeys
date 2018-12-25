@@ -42,7 +42,7 @@ const HELP_BOX_HTML = `
   <b>/</b> &nbsp;&nbsp; jump to search box</br>
   <b>=</b> &nbsp;&nbsp; clear search</br>
   <b>;</b> &nbsp;&nbsp; add stat filter</br>
-  <b>[</b> &nbsp;&nbsp; jump to previous stat filter min (see example)/br>
+  <b>[</b> &nbsp;&nbsp; jump to previous stat filter min (see example)</br>
   <b>?</b> &nbsp;&nbsp; open/close help box</br>
   </br>
   <b>Example (try it with this box still up)</b>

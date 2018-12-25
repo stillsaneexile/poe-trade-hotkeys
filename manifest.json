@@ -1,7 +1,7 @@
 {
   "name": "Path of Exile Trade Hotkeys",
   "short_name": "poetradekey",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unofficial extension. Adds hotkeys to the official Path of Exile trade site. Press ? after installing for help.",
   "manifest_version": 2,
   "content_scripts": [
