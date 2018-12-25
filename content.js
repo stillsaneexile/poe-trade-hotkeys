@@ -39,13 +39,13 @@ const Selectors = {
 
 const HELP_BOX_HTML = `
   <div class=${Selectors.HELP_BOX.replace('.', '')}>
-  <b>/</b> &nbsp;&nbsp; focus search box</br>
-  <b>=</b> &nbsp;&nbsp; clear all search params</br>
-  <b>;</b> &nbsp;&nbsp; add stat filter (supports filter groups)</br>
-  <b>[</b> &nbsp;&nbsp; previous stat filter min</br>
-  <b>?</b> &nbsp;&nbsp; toggle help box</br>
+  <b>/</b> &nbsp;&nbsp; jump to search box</br>
+  <b>=</b> &nbsp;&nbsp; clear search</br>
+  <b>;</b> &nbsp;&nbsp; add stat filter</br>
+  <b>[</b> &nbsp;&nbsp; jump to previous stat filter min (see example)/br>
+  <b>?</b> &nbsp;&nbsp; open/close help box</br>
   </br>
-  <b>Example</b>
+  <b>Example (try it with this box still up)</b>
     <ul>
       <li> <b>/</b>opal ring (then select Opal Ring with arrows)</li>
       <li> <b>;</b>maximum life (then select maximum life)</li>
