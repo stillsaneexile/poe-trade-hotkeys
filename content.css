@@ -1,0 +1,23 @@
+.extension-help-box {
+  background: grey;
+  border-radius: 20px;
+  border: darkgrey;
+  color: white;
+  font-size: 18px;
+  height: 500px;
+  left: 50%;
+  line-height: 2.0;
+  opacity: 0.8;
+  padding: 30px;
+  position: fixed;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  z-index: 100;
+}
+
+.extension-help-box ul {
+  line-height: 1.5;
+  list-style-type: disc;
+  padding-left: 20px;
+}
